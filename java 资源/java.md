@@ -13,4 +13,4 @@
 * [每个程序员都应该了解的内存知识【第一部分】](http://www.oschina.net/translate/what-every-programmer-should-know-about-memory-part1?print)
 * [ [置顶] 史上最全设计模式导学目录（完整版）](http://blog.csdn.net/lovelion/article/details/17517213)
 * [图说设计模式](http://design-patterns.readthedocs.io/zh_CN/latest/index.html)
-
+* [Java程序员必读的9本书](http://droidyue.com/blog/2014/11/30/java-programmer-must-read-these-9-books/)
